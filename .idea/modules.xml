@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Examen-Blanc-CQRS-EventSourcing.iml" filepath="$PROJECT_DIR$/.idea/Examen-Blanc-CQRS-EventSourcing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenBlanc-CQRS-ES-master/ExamenBlanc-CQRS-ES-master/core-api/core-api.iml" filepath="$PROJECT_DIR$/ExamenBlanc-CQRS-ES-master/ExamenBlanc-CQRS-ES-master/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenBlanc-CQRS-ES-master/ExamenBlanc-CQRS-ES-master/digital.iml" filepath="$PROJECT_DIR$/ExamenBlanc-CQRS-ES-master/ExamenBlanc-CQRS-ES-master/digital.iml" />
+    </modules>
+  </component>
+</project>
