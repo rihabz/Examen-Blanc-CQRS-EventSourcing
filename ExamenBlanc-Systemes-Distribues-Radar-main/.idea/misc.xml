@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/common-api/pom.xml" />
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/radar-service/pom.xml" />
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/infractions-service/pom.xml" />
+        <option value="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/immatriculation-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

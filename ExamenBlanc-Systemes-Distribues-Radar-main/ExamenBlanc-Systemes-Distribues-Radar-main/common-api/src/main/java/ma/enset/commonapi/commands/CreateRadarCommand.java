@@ -1,0 +1,26 @@
+package ma.enset.commonapi.commands;
+
+public class CreateRadarCommand extends BaseCommand<String>{
+    private double vitesseMax;
+    private double longtitude;
+    private double latitude;
+
+    public CreateRadarCommand(String id, double vitesseMax, double longtitude, double latitude) {
+        super(id);
+        this.vitesseMax = vitesseMax;
+        this.longtitude = longtitude;
+        this.latitude = latitude;
+    }
+
+    public double getVitesseMax() {
+        return vitesseMax;
+    }
+
+    public double getLongtitude() {
+        return longtitude;
+    }
+
+    public double getLatitude() {
+        return latitude;
+    }
+}

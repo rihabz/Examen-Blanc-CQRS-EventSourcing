@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Examen-Systemes-Distribues-Radar-main.iml" filepath="$PROJECT_DIR$/.idea/Examen-Systemes-Distribues-Radar-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/common-api/common-api.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/gateway/gateway.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/immatriculation-service/immatriculation-service.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/immatriculation-service/immatriculation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/infractions-service/infractions-service.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/infractions-service/infractions-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/radar-service/radar-service.iml" filepath="$PROJECT_DIR$/YassaExamen-Systemes-Distribues-Radar-main/radar-service/radar-service.iml" />
+    </modules>
+  </component>
+</project>
